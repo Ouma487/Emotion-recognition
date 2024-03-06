@@ -53,5 +53,5 @@ pip install tensorflow librosa opencv-python numpy pandas matplotlib scikit-lear
 To use the notebooks in this repository, clone the repository to your local machine:
 
 ```bash
-git clone [ https://github.com/your_username/your_repository.git](https://github.com/Ouma487/Emotion-recognition.git)https://github.com/Ouma487/Emotion-recognition.git
+git clone https://github.com/Ouma487/Emotion-recognition.git
 ```
