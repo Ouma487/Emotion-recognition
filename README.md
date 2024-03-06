@@ -21,4 +21,39 @@ The repository is organized into the following directories:
   - **Facial expressions.ipynb**: Notebook exploring facial emotion recognition techniques using computer vision and deep learning.
   - **Audio.ipynb**: Notebook focusing on emotion recognition from audio signals, employing signal processing and machine learning approaches.
 
+## Approach
+
+In this project, we adopt an approach to emotion recognition, leveraging deep learning techniques tailored for image and audio data separately. The approach involves:
+
+- Preprocessing: Preparing the data by resizing, converting to grayscale, and applying face detection for images, and extracting relevant features from audio signals.
+- Model Development: Designing and training separate deep learning models for image and audio data, utilizing Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) respectively.
+- Evaluation: Assessing the performance of the trained models using appropriate evaluation metrics and techniques.
+
+## Dependencies
+
+To run the notebooks and execute the code in this repository, you will need the following dependencies:
+
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow
+- Librosa
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+You can install these dependencies using pip:
+
+```bash
+pip install tensorflow librosa opencv-python numpy pandas matplotlib scikit-learn
+
+## Usage
+
+To use the notebooks in this repository, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your_username/your_repository.git
 
