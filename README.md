@@ -55,3 +55,9 @@ To use the notebooks in this repository, clone the repository to your local mach
 ```bash
 git clone https://github.com/Ouma487/Emotion-recognition.git
 ```
+## Project Report
+
+This repository includes a detailed project report in PDF format. The report provides an overview of the project objectives, methodologies, results, and conclusions. You can find the report in the root directory of the repository:
+
+- [Project_Report.pdf](Project_Report.pdf)
+
