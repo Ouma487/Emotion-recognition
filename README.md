@@ -1,2 +1,4 @@
-# Emotion-recognition
-Deep Learning for Emotion Recognition: Exploring Image and Audio Modalities
+# Deep Learning for Emotion Recognition: Exploring Image and Audio Modalities
+## Overview
+Emotion recognition, pivotal across human-computer interaction, affective computing, and psychology domains, encompasses discerning and comprehending human emotions expressed through diverse modalities like images and audio. Deep learning techniques, notably Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), have revolutionized this field by deciphering intricate features from complex data. This project aims to leverage tailored deep learning models for image and audio data to enhance emotion recognition, optimizing recognition processes and improving overall system accuracy. Through separate models optimized for each modality's distinct traits, we seek to contribute to the advancement of emotion recognition technology and its applications across diverse domains.
+
