@@ -59,5 +59,5 @@ git clone https://github.com/Ouma487/Emotion-recognition.git
 
 This repository includes a detailed project report in PDF format. The report provides an overview of the project objectives, methodologies, results, and conclusions. You can find the report in the root directory of the repository:
 
-- [Project_Report.pdf](Project_Report.pdf)
+- [Report.pdf](Report.pdf)
 
